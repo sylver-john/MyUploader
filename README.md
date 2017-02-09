@@ -51,6 +51,6 @@ r, w := io.Pipe()
   ```
 
 ## Moreover you can use the kraken go command line :
-1. Run ```go go build kraken.go```
+1. Run `` go build kraken.go``
 2. set kraken as environment variable with the path `` C:\Users\mydirectory\MyUploader\kraken.exe`` for exemple
 3. Run `` kraken pathToTheImage ``
